@@ -1,1 +1,1 @@
-# fretboard-diagram
+# fretboard-diagrams
